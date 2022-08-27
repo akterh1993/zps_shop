@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054313447864",
+    "project_id": "zps-shop-2ffed",
+    "storage_bucket": "zps-shop-2ffed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054313447864:android:bff48f7f98b559e24e0f4d",
+        "android_client_info": {
+          "package_name": "com.example.zps_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054313447864-fc1kslls6d274delhic06t60jdentlsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zps_shop",
+            "certificate_hash": "806238c7d8badc1c7b86c971acc580a07771fd7d"
+          }
+        },
+        {
+          "client_id": "1054313447864-qa9djih5qbekip2fu6l1gq2cto63smlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUHirHRaS8bRnk_FXC9LutDcXRgOovUA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054313447864-qa9djih5qbekip2fu6l1gq2cto63smlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
